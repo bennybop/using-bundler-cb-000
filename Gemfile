@@ -11,5 +11,5 @@ gem "pry", :group => "development"
 
 group :development do
   gem 'pry'
-  
+
 end
